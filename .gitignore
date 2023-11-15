@@ -1,0 +1,6 @@
+lib
+node_modules
+.idea
+.pki
+.DS_Store
+.env
